@@ -1,0 +1,9 @@
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\bin\AnyCPU\Debug\BindingsLibrary.dll
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\bin\AnyCPU\Debug\BindingsLibrary.pdb
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\__AndroidLibraryProjects__.zip
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\BindingsLibrary.csprojAssemblyReference.cache
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\stamp\_BuildLibraryImportsCache.stamp
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\BindingsLibrary.csproj.CoreCompileInputs.cache
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\BindingsLibrary.dll
+C:\repo\issues\BasicAndroidLibrary\BindingsLibrary\obj\Debug\BindingsLibrary.pdb

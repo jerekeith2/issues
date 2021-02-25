@@ -1,0 +1,147 @@
+<api
+  api-source="class-parse">
+  <package
+    name="com.BasicAndroidLibrary"
+    jni-name="com/BasicAndroidLibrary">
+    <class
+      abstract="false"
+      deprecated="not deprecated"
+      jni-extends="Landroid/app/Activity;"
+      extends="android.app.Activity"
+      extends-generic-aware="android.app.Activity"
+      final="false"
+      name="BasicAndroidLibrary"
+      jni-signature="Lcom/BasicAndroidLibrary/BasicAndroidLibrary;"
+      source-file-name="BasicAndroidLibrary.java"
+      static="false"
+      visibility="public">
+      <constructor
+        deprecated="not deprecated"
+        final="false"
+        name="BasicAndroidLibrary"
+        static="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()V" />
+      <method
+        abstract="false"
+        deprecated="not deprecated"
+        final="false"
+        name="onCreate"
+        native="false"
+        return="void"
+        jni-return="V"
+        static="false"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="(Landroid/os/Bundle;)V">
+        <parameter
+          name="savedInstanceState"
+          type="android.os.Bundle"
+          jni-type="Landroid/os/Bundle;" />
+      </method>
+    </class>
+    <class
+      abstract="false"
+      deprecated="not deprecated"
+      jni-extends="Ljava/lang/Object;"
+      extends="java.lang.Object"
+      extends-generic-aware="java.lang.Object"
+      final="true"
+      name="BuildConfig"
+      jni-signature="Lcom/BasicAndroidLibrary/BuildConfig;"
+      source-file-name="BuildConfig.java"
+      static="false"
+      visibility="public">
+      <constructor
+        deprecated="not deprecated"
+        final="false"
+        name="BuildConfig"
+        static="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()V" />
+      <field
+        deprecated="not deprecated"
+        final="true"
+        name="APPLICATION_ID"
+        static="true"
+        synthetic="false"
+        transient="false"
+        type="java.lang.String"
+        type-generic-aware="java.lang.String"
+        jni-signature="Ljava/lang/String;"
+        value="&quot;com.BasicAndroidLibrary&quot;"
+        visibility="public"
+        volatile="false" />
+      <field
+        deprecated="not deprecated"
+        final="true"
+        name="BUILD_TYPE"
+        static="true"
+        synthetic="false"
+        transient="false"
+        type="java.lang.String"
+        type-generic-aware="java.lang.String"
+        jni-signature="Ljava/lang/String;"
+        value="&quot;debug&quot;"
+        visibility="public"
+        volatile="false" />
+      <field
+        deprecated="not deprecated"
+        final="true"
+        name="DEBUG"
+        static="true"
+        synthetic="false"
+        transient="false"
+        type="boolean"
+        type-generic-aware="boolean"
+        jni-signature="Z"
+        visibility="public"
+        volatile="false" />
+      <field
+        deprecated="not deprecated"
+        final="true"
+        name="FLAVOR"
+        static="true"
+        synthetic="false"
+        transient="false"
+        type="java.lang.String"
+        type-generic-aware="java.lang.String"
+        jni-signature="Ljava/lang/String;"
+        value="&quot;arm7&quot;"
+        visibility="public"
+        volatile="false" />
+      <field
+        deprecated="not deprecated"
+        final="true"
+        name="VERSION_CODE"
+        static="true"
+        synthetic="false"
+        transient="false"
+        type="int"
+        type-generic-aware="int"
+        jni-signature="I"
+        value="1"
+        visibility="public"
+        volatile="false" />
+      <field
+        deprecated="not deprecated"
+        final="true"
+        name="VERSION_NAME"
+        static="true"
+        synthetic="false"
+        transient="false"
+        type="java.lang.String"
+        type-generic-aware="java.lang.String"
+        jni-signature="Ljava/lang/String;"
+        value="&quot;1.0&quot;"
+        visibility="public"
+        volatile="false" />
+    </class>
+  </package>
+</api>

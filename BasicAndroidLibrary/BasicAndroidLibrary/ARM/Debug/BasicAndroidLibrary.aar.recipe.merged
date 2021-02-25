@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths></SOLibPaths>
+  <AndroidLibPaths>C:\repo\issues\BasicAndroidLibrary\BasicAndroidLibrary\ARM\Debug\BasicAndroidLibrary.aar;C:\repo\issues\BasicAndroidLibrary\BasicAndroidLibrary\app</AndroidLibPaths>
+  <OObjPaths></OObjPaths>
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture>armeabi-v7a</AndroidArchitecture>
+</project>

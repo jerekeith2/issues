@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<api>
+  <package name="com.BasicAndroidLibrary" jni-name="com/BasicAndroidLibrary">
+    <class abstract="false" deprecated="not deprecated" extends="android.app.Activity" extends-generic-aware="android.app.Activity" jni-extends="Landroid/app/Activity;" final="false" name="BasicAndroidLibrary" static="false" visibility="public" jni-signature="Lcom/BasicAndroidLibrary/BasicAndroidLibrary;">
+      <constructor deprecated="not deprecated" final="false" name="BasicAndroidLibrary" jni-signature="()V" bridge="false" static="false" type="com.BasicAndroidLibrary.BasicAndroidLibrary" synthetic="false" visibility="public"></constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onCreate" jni-signature="(Landroid/os/Bundle;)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="savedInstanceState" type="android.os.Bundle" jni-type="Landroid/os/Bundle;"></parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" jni-extends="Ljava/lang/Object;" final="true" name="BuildConfig" static="false" visibility="public" jni-signature="Lcom/BasicAndroidLibrary/BuildConfig;">
+      <constructor deprecated="not deprecated" final="false" name="BuildConfig" jni-signature="()V" bridge="false" static="false" type="com.BasicAndroidLibrary.BuildConfig" synthetic="false" visibility="public"></constructor>
+      <field deprecated="not deprecated" final="true" name="APPLICATION_ID" jni-signature="Ljava/lang/String;" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.BasicAndroidLibrary&quot;" visibility="public" volatile="false"></field>
+      <field deprecated="not deprecated" final="true" name="BUILD_TYPE" jni-signature="Ljava/lang/String;" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;debug&quot;" visibility="public" volatile="false"></field>
+      <field deprecated="not deprecated" final="true" name="DEBUG" jni-signature="Z" static="true" transient="false" type="boolean" type-generic-aware="boolean" visibility="public" volatile="false"></field>
+      <field deprecated="not deprecated" final="true" name="FLAVOR" jni-signature="Ljava/lang/String;" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;arm7&quot;" visibility="public" volatile="false"></field>
+      <field deprecated="not deprecated" final="true" name="VERSION_CODE" jni-signature="I" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false"></field>
+      <field deprecated="not deprecated" final="true" name="VERSION_NAME" jni-signature="Ljava/lang/String;" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;1.0&quot;" visibility="public" volatile="false"></field>
+    </class>
+  </package>
+</api>
